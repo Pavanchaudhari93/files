@@ -1,0 +1,36 @@
+mId: 1003406
+
+Encryption Key:
+
+{
+    "data": [
+        "vH4Tav2y8Wo2/V6Dcrb26REu1rAYzT5QiJir3M2538w="
+    ],
+    "status": 1
+}
+
+
+KeyId and Key Secret: 
+
+
+{
+    "data": [
+        {
+            "Merchant-API-Key-Id": "xgZq0PSLiNMIAhRKnms7",
+            "Merchant-API-Key-Secret": "bHoeFOQCI0S1aB6"
+        }
+    ],
+    "status": 1
+}
+
+enc key :
+{
+    "data": [
+        "vH4Tav2y8Wo2/V6Dcrb26REu1rAYzT5QiJir3M2538w="
+    ],
+    "status": 1
+}
+
+
+tech1.sbiepay@sbi.co.in
+shital.suryawanshi.cedge@sbi.co.in
